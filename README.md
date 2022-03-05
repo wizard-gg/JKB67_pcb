@@ -1,10 +1,9 @@
-# JKB65 RGB
+# JKB67 RGB
 
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
-## This project is completed and will not get updated anymore.
 
-### JKB65 RGB Hotswap PCB, compatible [Bakeneko65 V3](https://github.com/kkatano/bakeneko-65) Keyboard
+## JKB65 RGB Hotswap PCB, compatible [Bakeneko65 V3](https://github.com/kkatano/bakeneko-65) Keyboard
 
 ---
 
