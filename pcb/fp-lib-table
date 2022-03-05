@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name Diodes_SMD)(type Github)(uri https://github.com/KiCad/Diodes_SMD.pretty)(options "")(descr ""))
+  (lib (name custom_parts)(type KiCad)(uri ${KIPRJMOD}/custom_parts.pretty)(options "")(descr ""))
+  (lib (name RGB_5pin_HotSwap)(type KiCad)(uri ${KIPRJMOD}/CherryMX_PCB_KailhSocket_LTST-A683CEGBW.pretty)(options "")(descr ""))
+)
